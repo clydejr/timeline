@@ -22,7 +22,7 @@
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Clyde Jr (http://iheartclyde.com/)"
     ],
     "repository": {
         "type": "git",
@@ -32,7 +32,8 @@
         "@fortawesome/fontawesome-free": "5.10.2",
         "bootstrap": "4.3.1",
         "jquery": "3.4.1",
-        "jquery.easing": "^1.4.1"
+        "jquery.easing": "^1.4.1",
+        "open": "^6.0.0"
     },
     "devDependencies": {
         "browser-sync": "2.26.7",
