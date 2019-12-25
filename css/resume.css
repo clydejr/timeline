@@ -160,15 +160,19 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-image: url(https://mfiles.alphacoders.com/153/153859.jpg) !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #003d88!important;
+}
+
+.text-secondary{
+  color:#8c8c8c!important;
 }
 
 a {
-  color: #BD5D38;
+  color: #003d88;
 }
 
 a:hover, a:focus, a:active {
